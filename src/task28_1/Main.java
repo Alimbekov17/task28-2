@@ -1,3 +1,5 @@
+package task28_1;
+
 import java.util.*;
 
 public class Main {
